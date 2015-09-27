@@ -7,9 +7,11 @@ Script python de consultation d'un répertoire LDAP via l'API LDAPAdmin de geOrc
 
 ## Installation:
 
-ldapreader utilise les modules python "requests" pour interroger l'API de LDAPAdmin et "vobject" pour la génération de vcard.  
+Ldapreader utilise les modules python "requests" pour interroger l'API de LDAPAdmin et "vobject" pour la génération de vcard.  
 Ces modules sont intégrés au script (cf. répertoire "libs").
-Pour un utilisation optimale, il est cependant conseillé de les installer directement dans python via ```$ pip install vobjects requests```.
+Pour une utilisation optimale, il est conseillé de les installer directement dans python via ```$ pip install vobjects requests```.
+
+N'oubliez pas de configurer votre identifiant et mot de passe LDAP ainsi que l'URL de l'API dans le fichier ldapreader.cfg.
 
 
 ## Utilisation:
