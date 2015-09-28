@@ -45,7 +45,7 @@ Options:
 
 Options:
 
-*--word, -w <word>* : terme pour filtrer la liste des groupes. Conserve uniquement les groupes dont le nom (cn) ou la description ('description') contient le terme <word>. La casse est ignorée. - optionnel.
+*--word, -w <word>* : terme pour filtrer la liste des groupes. Conserve uniquement les groupes dont le nom (cn) ou la description ('description') contient le terme <word>. La casse est prise en compte. - optionnel.
 
 
 ## Exemples:
