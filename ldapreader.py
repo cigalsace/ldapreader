@@ -10,8 +10,13 @@ Documentation: cf. readme.md.
 import os
 import argparse
 import ConfigParser
-from libs import requests
-from libs import vobject
+
+try:
+    import requests
+    import vobject
+except ImportError:
+    from libs import requests
+    from libs import vobject
 
 __author__ = "Guillaume Ryckelynck"
 __copyright__ = "Copyright 2015, CIGAL"
