@@ -11,7 +11,7 @@ Ldapreader utilise les modules python "requests" pour interroger l'API de LDAPAd
 Ces modules sont intégrés au script (cf. répertoire "libs").
 Pour une utilisation optimale, il est conseillé de les installer directement dans python via ```$ pip install vobjects requests```.
 
-N'oubliez pas de configurer votre identifiant et mot de passe LDAP ainsi que l'URL de l'API dans le fichier ldapreader.cfg.
+N'oubliez pas de configurer votre identifiant et mot de passe LDAP ainsi que l'URL de l'API dans le fichier ``ldapreader.cfg.dist`` et de le renommer en ``ldapreader.cfg``.
 
 
 ## Utilisation:
