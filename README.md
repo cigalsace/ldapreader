@@ -38,6 +38,8 @@ Options:
 
 *--vcard, -c <file>*    : nom du fichier d'export de la vcard. Si l'option --vctype est définie à 's', un chemin doit être indiqué et l'uid des utilisateurs est utilisé comme nom de fichier (ex.: 'pdupont.vcf'). Si non précisé, le résultat est affiché à l'écran - optionnel.  
 
+*--csv, -s <file>*    : nom du fichier d'export au format CSV. Le paramètre `--vctype` ne fonctionne pas avec `--csv`    
+
 *--vctype, -t <type>*   : type de vcard pour l'export. Utilisé conjointement avec l'option --vcard. Les valeurs possibles sont 'm' (vcard multiple - un fichier avec tous les utilisateurs) et 's' (vcard simple - un fichier par utilisateur). La valeur par défaut est 'm' - optionnel.  
 
 
@@ -102,7 +104,18 @@ $ python ldapreader.py users -w pierre -g SV_ -c files/vcards -t s  // exporter 
                                                                     // un groupe dont le nom contient le terme "sv_" 
 ```
 
+** Export csv**
+
+```
+$ python ldapreader.py users -g WAITING_ANNUAIRE -s files/contacts.csv      // exporter dans le fichier 'files/conatcts.csv' l'ensemble des users
+                                                                            // appartenant au groupe "WAITING_ANNUAIRE"
+```
+
 ## Versions:
+
+**ldapreader 0.02: stable**  
+
+- Ajout de l'export des users au format CSV (paramètre `--csv`).
 
 **ldapreader 0.01: stable**  
 

@@ -19,12 +19,12 @@ except ImportError:
     from libs import vobject
 
 __author__ = "Guillaume Ryckelynck"
-__copyright__ = "Copyright 2015, CIGAL"
+__copyright__ = "Copyright 2015/2018, CIGAL"
 __credits__ = ["Guillaume Ryckelynck",]
 __license__ = "GPL"
-__version__ = "3.0.0"
+__version__ = "0.0.2"
 __maintainer__ = "Guillaume Ryckelynck"
-__email__ = "guillaume.ryckelynck@region-alsace.eu"
+__email__ = "guillaume.ryckelynck@grandest.fr"
 __status__ = "Production"
 
 requests.packages.urllib3.disable_warnings()
@@ -219,6 +219,34 @@ def vcardLdapUser(user = None):
 
     return j.serialize()
 
+
+def csvLdapUser(user = None):
+    """ Generate CSV line for a user. 
+    """
+    ldap_keys = ['givenName', 'sn', 'o', 'title', 'postalAddress', 'telephoneNumber', 'mail', 'uid', 'employeeNumber', 'description']
+    for k in ldap_keys:
+        if not k in user.keys():
+            user[k] = ''
+
+    csv_line = []
+    csv_line.append('"' + user['uid'] + '"')
+    csv_line.append('"' + user['sn'] + '"')
+    csv_line.append('"' + user['givenName'] + '"')
+    csv_line.append('"' + user['o'] + '"')
+    csv_line.append('"' + user['title'] + '"')
+    csv_line.append('"' + user['postalAddress'] + '"')
+    csv_line.append('"' + user['telephoneNumber'] + '"')
+    csv_line.append('"' + user['mail'] + '"')
+    csv_line.append('"' + user['description'] + '"')
+    user_groups = []
+    if 'groups' in user:
+        user_groups = user['groups']
+    csv_line.append('"' + ', '.join(user_groups) + '"')
+
+    return ';'.join(csv_line)
+
+    
+
 if __name__ == "__main__": 
     # Commande line: list of arguments/options
     parser = argparse.ArgumentParser(description='Ldapadmin reader.')
@@ -227,6 +255,7 @@ if __name__ == "__main__":
     parser.add_argument('--word', '-w', help='word to search in user list')
     parser.add_argument('--group', '-g', help='group to search in user list')
     parser.add_argument('--vcard', '-c', help='vcard path/filename export')
+    parser.add_argument('--csv', '-s', help='vcard path/filename export')
     parser.add_argument('--vctype', '-t', help='type of vcard to export (m = multi / s = simple)')
     args = parser.parse_args()
 
@@ -278,6 +307,20 @@ if __name__ == "__main__":
                     
                 else:
                     print "Error: invalid value for vcard type (--vctype/-t). Choose 'm' (multiple) or 's' (simple)."
+
+
+            if args.csv:
+                if os.path.isdir(os.path.dirname(args.csv)):
+                    csv = []
+                    csv.append("UID;NOM;PRENOM;ORGANISME;FONCTION;ADRESSE;TEL;EMAIL;DESCRIPTION;GROUPES")
+                    for user in users:
+                        user_data = getLdapUser(user['uid'])
+                        csv.append(csvLdapUser(user_data))
+                    with open(args.csv, 'wb') as file:
+                        file.write('\n'.join(csv).encode('utf8'))
+                    print "Ok: CSV file " + args.csv + " created."
+                else:
+                    print "Error: path '" + os.path.dirname(args.csv) + "' doesn't exist. thanks to create directory."
 
             else:
                 printLdapUsers(users)

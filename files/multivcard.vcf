@@ -1,0 +1,651 @@
+BEGIN:VCARD
+VERSION:3.0
+UID:abernard
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67289,WAITING_ANNUAI
+ RE
+EMAIL;TYPE=INTERNET:mairie.menchhoffen@orange.fr
+FN:Aurélie BERNARD
+N:BERNARD;Aurélie;;;
+NOTE:LDAP uid: abernard\n\nLDAP description: gestion des demandes des usage
+ rs\n\nGroupes: CO_CADASTRE\, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CO_67289\, W
+ AITING_ANNUAIRE
+ORG:Commune de Menchhoffen
+ROLE:Secrétaire de Mairie
+TEL;TYPE=WORK:0388894446
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:ahirlimann
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67057,WAITING_ANNUAI
+ RE
+EMAIL;TYPE=INTERNET:mairie.de.bosselshausen@orange.fr
+FN:Annabelle HIRLIMANN
+N:HIRLIMANN;Annabelle;;;
+NOTE:LDAP uid: ahirlimann\n\nLDAP description: cadastre\n\nGroupes: CO_CADA
+ STRE\, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CO_67057\, WAITING_ANNUAIRE
+ORG:COMMUNE DE BOSSELSHAUSEN
+ROLE:SECRETAIRE DE MAIRIE
+TEL;TYPE=WORK:03.88.70.72.20
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:annahirlimann
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67242,WAITING_ANNUAI
+ RE
+EMAIL;TYPE=INTERNET:mairie.kirrwiller-67@orange.fr
+FN:Annabelle HIRLIMANN
+N:HIRLIMANN;Annabelle;;;
+NOTE:LDAP uid: annahirlimann\n\nLDAP description: CADASTRE\n\nGroupes: CO_C
+ ADASTRE\, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CO_67242\, WAITING_ANNUAIRE
+ORG:COMMUNE DE KIRRWILLER
+ROLE:SECRETAIRE DE MAIRIE
+TEL;TYPE=WORK:03.88.70.71.84
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:anthony.sevin
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:EL__ENTREPRISES,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:anthony.sevin@sogetrel.fr
+FN:Anthony SEVIN
+N:SEVIN;Anthony;;;
+NOTE:LDAP uid: anthony.sevin\n\nLDAP description: Chargé d'Etude SOGETREL\
+ n\nGroupes: EL__ENTREPRISES\, SV_USER\, WAITING_ANNUAIRE
+ORG:SOGETREL
+ROLE:Chargé d'Etude
+TEL;TYPE=WORK:0635946690
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:apringarbe
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_CUS,SV_EDITOR,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:Arnaud.PRINGARBE@strasbourg.eu
+FN:Arnaud Pringarbe
+N:Pringarbe;Arnaud;;;
+NOTE:LDAP uid: apringarbe\n\nLDAP description: membre CBA\n\nGroupes: CO_CB
+ A\, EL_CUS\, SV_EDITOR\, WAITING_ANNUAIRE
+ORG:Eurométropole de Strasbourg
+ROLE:Responsable études et prospective faune flore
+TEL;TYPE=WORK:0643253768
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:asonnenmoser
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_CUS,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:a.sonnenmoser@strasbourg.eu
+FN:Adèle Sonnenmoser
+N:Sonnenmoser;Adèle;;;
+NOTE:LDAP uid: asonnenmoser\n\nLDAP description: Membre du CBA\n\nGroupes: 
+ CO_CBA\, EL_CUS\, SV_USER\, WAITING_ANNUAIRE
+ORG:Ville de Strasbourg
+ROLE:Chargé d'études faune\, flore et milieux naturels
+TEL;TYPE=WORK:0626176228
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:avillaume
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_CUS,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:anne.villaume@strasbourg.eu
+FN:Anne VILLAUME
+N:VILLAUME;Anne;;;
+NOTE:LDAP uid: avillaume\n\nLDAP description: membre CBA\n\nGroupes: CO_CBA
+ \, EL_CUS\, SV_USER\, WAITING_ANNUAIRE
+ORG:Eurométropole de Strasbourg
+ROLE:Chargée d'études
+TEL;TYPE=WORK:0368985000
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:bgeissler
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67016,SV_USER,WAITIN
+ G_ANNUAIRE
+EMAIL;TYPE=INTERNET:mairie@avolsheim.fr
+FN:brigitte GEISSLER
+N:GEISSLER;brigitte;;;
+NOTE:LDAP uid: bgeissler\n\nLDAP description: DEMANDE MODULE CADASTRE\n\nGr
+ oupes: CO_CADASTRE\, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CO_67016\, SV_USER\,
+  WAITING_ANNUAIRE
+ORG:MAIRIE AVOLSHEIM
+ROLE:secrétaire de mairie
+TEL;TYPE=WORK:0388381168
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:camberg
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67125,SV_USER,WAITIN
+ G_ANNUAIRE
+EMAIL;TYPE=INTERNET:mairie@epfig.fr
+FN:Claude AMBERG
+N:AMBERG;Claude;;;
+NOTE:LDAP uid: camberg\n\nLDAP description: Demande CADSATRE\n\nGroupes: CO
+ _CADASTRE\, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CO_67125\, SV_USER\, WAITING_
+ ANNUAIRE
+ORG:Commune Epfig
+ROLE:secretaire
+TEL;TYPE=WORK:0388855008
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:cburtin
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_DDT67,SV_EDITOR,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:claudine.burtin@bas-rhin.gouv.fr
+FN:Claudine BURTIN
+N:BURTIN;Claudine;;;
+NOTE:LDAP uid: cburtin\n\nLDAP description: Membre CBA\n\nGroupes: CO_CBA\,
+  EL_DDT67\, SV_EDITOR\, WAITING_ANNUAIRE
+ORG:DDT67
+ROLE:responsable pole milieux naturels et espèces
+TEL;TYPE=WORK:0388889108
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:cdronneau
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_GRANDEST,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:christian.dronneau@grandest.fr
+FN:Christian DRONNEAU
+N:DRONNEAU;Christian;;;
+NOTE:LDAP uid: cdronneau\n\nLDAP description: Milieux naturels et biodivers
+ ité\n\nGroupes: CO_CBA\, EL_GRANDEST\, SV_USER\, WAITING_ANNUAIRE
+ORG:Région Grand est
+ROLE:Chargé de mission
+TEL;TYPE=WORK:03 88 15 67 62
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:cpirat
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:claire.pirat@free.fr
+FN:Claire Pirat
+N:Pirat;Claire;;;
+NOTE:LDAP uid: cpirat\n\nLDAP description: membre CBA\n\nGroupes: CO_CBA\, 
+ SV_USER\, WAITING_ANNUAIRE
+ORG:SBA 
+ROLE:
+TEL;TYPE=WORK:0652094939
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:dorth
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_CUS,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:dominique.orth@developpement-durable.gouv.fr
+FN:Dominique ORTH
+N:ORTH;Dominique;;;
+NOTE:LDAP uid: dorth\n\nLDAP description: Membre CBA\n\nGroupes: CO_CBA\, E
+ L_CUS\, SV_USER\, WAITING_ANNUAIRE
+ORG:DREAL Grand Est
+ROLE:Adjointe pôle Espèces et expertise naturaliste
+TEL;TYPE=WORK:0388130662 
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:dschwab
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_CG67,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:denis.schwab@bas-rhin.fr
+FN:Denis SCHWAB
+N:SCHWAB;Denis;;;
+NOTE:LDAP uid: dschwab\n\nLDAP description: Responsable Cellule Espaces Nat
+ urels\n\nGroupes: CO_CBA\, EL_CG67\, SV_USER\, WAITING_ANNUAIRE
+ORG:Département du Bas-Rhin 
+ROLE:Responsable Cellule Espaces Naturels
+TEL;TYPE=WORK:0687869215
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:fholderith
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67371,WAITING_ANNUAI
+ RE
+EMAIL;TYPE=INTERNET:mairielpp@wanadoo.fr
+FN:Fabrice HOLDERITH
+N:HOLDERITH;Fabrice;;;
+NOTE:LDAP uid: fholderith\n\nLDAP description: CADASTRE\n\nGroupes: CO_CADA
+ STRE\, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CO_67371\, WAITING_ANNUAIRE
+ORG:Commune de LA PETITE-PIERRE
+ROLE:Secrétaire de mairie 
+TEL;TYPE=WORK:0388014700
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:frimmelygross
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67307,WAITING_ANNUAI
+ RE
+EMAIL;TYPE=INTERNET:mairie.mulhausen@wanadoo.fr
+FN:Françoise RIMMELY GROSS
+N:RIMMELY GROSS;Françoise;;;
+NOTE:LDAP uid: frimmelygross\n\nLDAP description: collectivité\n\nGroupes:
+  CO_CADASTRE\, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CO_67307\, WAITING_ANNUAIR
+ E
+ORG:MAIRIE DE MULHAUSEN
+ROLE:secrétaire
+TEL;TYPE=WORK:03 88 89 32 50
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:frimmelygross1
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67503,WAITING_ANNUAI
+ RE
+EMAIL;TYPE=INTERNET:mairie.uttwiller@wanadoo.fr
+FN:Françoise RIMMELY GROSS1
+N:RIMMELY GROSS1;Françoise;;;
+NOTE:LDAP uid: frimmelygross1\n\nLDAP description: COLLECTIVITE\n\nGroupes:
+  CO_CADASTRE\, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CO_67503\, WAITING_ANNUAIR
+ E
+ORG:mairie de uttwiller
+ROLE:secrétaire de mairie
+TEL;TYPE=WORK:03 88 70 72 47
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:fsalomon
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:EL__ETUDIANTS,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:ferreol.salomon@live-cnrs.unistra.fr
+FN:Ferréol SALOMON
+N:SALOMON;Ferréol;;;
+NOTE:LDAP uid: fsalomon\n\nLDAP description: Paléoenvironnements du Rhin e
+ t géoarchéologie\n\nGroupes: EL__ETUDIANTS\, SV_USER\, WAITING_ANNUAIRE
+ORG:Université de Strasbourg
+ROLE:Post-Doc
+TEL;TYPE=WORK:06 45 64 09 64
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:gdenneval
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:EL_CA_CHALONS-EN-CHAMPAGNE,SV_EDITOR,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:sig@chalons-agglo.fr
+FN:Gilles DENNEVAL
+N:DENNEVAL;Gilles;;;
+NOTE:LDAP uid: gdenneval\n\nLDAP description: Responsable SIG Ville et Comm
+ unauté d'Agglomération de Châlons-en-Champagne\n\nGroupes: EL_CA_CHALON
+ S-EN-CHAMPAGNE\, SV_EDITOR\, WAITING_ANNUAIRE
+ORG:Communauté d'Agglomération de Châlons en Champagne
+ROLE:Responsable SIG Ville et Interco
+TEL;TYPE=WORK:0761046293
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:glallement
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:EL_GRANDEST,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:gerard.lallement@grandest.fr
+FN:Gérard LALLEMENT
+N:LALLEMENT;Gérard;;;
+NOTE:LDAP uid: glallement\n\nLDAP description: Statisticien au sein de la d
+ irection DEA\, service GeC (Géomatique et Connaissance)\n\nGroupes: EL_GR
+ ANDEST\, SV_USER\, WAITING_ANNUAIRE
+ORG:REGION GRAND EST
+ROLE:Ingénieur statisticien
+TEL;TYPE=WORK:387336283
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:gschoch
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_CUS,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:guillaume.schoch@strasbourg.eu
+FN:Guillaume SCHOCH
+N:SCHOCH;Guillaume;;;
+NOTE:LDAP uid: gschoch\n\nLDAP description: Membre CBA\n\nGroupes: CO_CBA\,
+  EL_CUS\, SV_USER\, WAITING_ANNUAIRE
+ORG:Ville & Eurométropole de Strasbourg
+ROLE:Chargée d'étude faune-flore-habitat
+TEL;TYPE=WORK:0368985000
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:jkrebs
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67516,SV_USER,WAITIN
+ G_ANNUAIRE
+EMAIL;TYPE=INTERNET:mairie.waltenheim@wanadoo.fr
+FN:Jeannot KREBS
+N:KREBS;Jeannot;;;
+NOTE:LDAP uid: jkrebs\n\nLDAP description: commune \n\nGroupes: CO_CADASTRE
+ \, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CO_67516\, SV_USER\, WAITING_ANNUAIRE
+ORG:COMMUNE DE WALTENHEIM SUR ZORN
+ROLE:
+TEL;TYPE=WORK:0388515352
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:jlaumond
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CC_VALLEE-BRUSCHE,SV_US
+ ER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:js.laumond@valleedelabruche.fr
+FN:Jean Sébastien LAUMOND
+N:LAUMOND;Jean Sébastien;;;
+NOTE:LDAP uid: jlaumond\n\nLDAP description: En charge du SIG à la CCVB\nS
+ ouhaite pouvoir accéder via l'outil web aux 26 communes membres de la CCV
+ B\n\nGroupes: CO_CADASTRE\, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CC_VALLEE-BRU
+ SCHE\, SV_USER\, WAITING_ANNUAIRE
+ORG:CC Vallée de la Bruche
+ROLE:ADL environnement + SIG
+TEL;TYPE=WORK:0615952930
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:kklein
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67371,WAITING_ANNUAI
+ RE
+EMAIL;TYPE=INTERNET:accueil@la-petite-pierre.fr
+FN:Kathy KLEIN
+N:KLEIN;Kathy;;;
+NOTE:LDAP uid: kklein\n\nLDAP description: Accueil\, secrétariat...\n\nGro
+ upes: CO_CADASTRE\, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CO_67371\, WAITING_AN
+ NUAIRE
+ORG:MAIRIE DE LA PETITE PIERRE
+ROLE:Secrétaire
+TEL;TYPE=WORK:0388014700
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:lchabirand
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_SIGNALEMENT,EL_CC_SELESTAT,SP_PARTENAIRE_ASSOCIE,SV_USER,WAIT
+ ING_ANNUAIRE
+EMAIL;TYPE=INTERNET:chabirand@ville-selestat.fr
+FN:Lara Chabirand
+N:Chabirand;Lara;;;
+NOTE:LDAP uid: lchabirand\n\nLDAP description: Repsonsable SIG pour le Vill
+ e et la Communauté de Communes de Sélestat\n\nGroupes: CO_SIGNALEMENT\, 
+ EL_CC_SELESTAT\, SP_PARTENAIRE_ASSOCIE\, SV_USER\, WAITING_ANNUAIRE
+ORG:Communauté de communes de Sélestat
+ROLE:Technicien SIG
+TEL;TYPE=WORK:0388086968
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:ldefremont
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:EL__ENTREPRISES,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:l.de-fremont@epa-marnelavallee.fr
+FN:Léa DE FREMONT
+N:DE FREMONT;Léa;;;
+NOTE:LDAP uid: ldefremont\n\nLDAP description: Réalisation d'une étude su
+ r les webSIG existants en vue de la mise en place d'un webSIG pour l'EPAMA
+ RNE.\n\nGroupes: EL__ENTREPRISES\, SV_USER\, WAITING_ANNUAIRE
+ORG:EPAMARNE EPAFRANCE
+ROLE:Stagiaire 
+TEL;TYPE=WORK:0642861148
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:lhardion
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_UDS,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:hardion@unistra.fr
+FN:Laurent Hardion
+N:Hardion;Laurent;;;
+NOTE:LDAP uid: lhardion\n\nLDAP description: Membre du conseil d'administra
+ tion du Conservatoire Botanique d'Alsace\n\nGroupes: CO_CBA\, EL_UDS\, SV_
+ USER\, WAITING_ANNUAIRE
+ORG:Université de Strasbourg
+ROLE:Maitre de conférences
+TEL;TYPE=WORK:0368851830
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:lrazafindralay
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:razafindralay@haut-rhin.fr
+FN:Lydia Razafindralay
+N:Razafindralay;Lydia;;;
+NOTE:LDAP uid: lrazafindralay\n\nLDAP description: Chargée de l'inventaire
+  des zones humides du Haut-Rhin\n\nGroupes: CO_CBA\, SV_USER\, WAITING_ANN
+ UAIRE
+ORG:Conseil départemental du Haut-Rhin
+ROLE:
+TEL;TYPE=WORK:03 89 30 65 30
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:lvitu
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67436,WAITING_ANNUAI
+ RE
+EMAIL;TYPE=INTERNET:accueil@mairiedesaulxures.fr
+FN:laure VITU
+N:VITU;laure;;;
+NOTE:LDAP uid: lvitu\n\nLDAP description: consultation des propriétaires s
+ ur le ban communal entreautre\n\nGroupes: CO_CADASTRE\, EL_CAD_CNIL1\, EL_
+ CAD_CNIL2\, EL_CO_67436\, WAITING_ANNUAIRE
+ORG:mairie
+ROLE:secrétaire de mairie
+TEL;TYPE=WORK:0388976021
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:mhildenbrand
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_M2A,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:Mathieu.Hildenbrand@mulhouse-alsace.fr
+FN:Mathieu HILDENBRAND
+N:HILDENBRAND;Mathieu;;;
+NOTE:LDAP uid: mhildenbrand\n\nLDAP description: Membre CBA\n\nGroupes: CO_
+ CBA\, EL_M2A\, SV_USER\, WAITING_ANNUAIRE
+ORG:Ville de Mulhouse Service Jardins publics Espaces verts 
+ROLE:Responsable de l'unité conservatoire botanique
+TEL;TYPE=WORK:06 26 11 67 23
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:msteinmetz
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67534,WAITING_ANNUAI
+ RE
+EMAIL;TYPE=INTERNET:direction@wilwisheim.fr
+FN:Muriel STEINMETZ
+N:STEINMETZ;Muriel;;;
+NOTE:LDAP uid: msteinmetz\n\nLDAP description: Secrétaire de mairie\n\nGro
+ upes: CO_CADASTRE\, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CO_67534\, WAITING_AN
+ NUAIRE
+ORG:Commune de Wilwisheim
+ROLE:Secrétaire de mairie
+TEL;TYPE=WORK:0388915066
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:nsimler
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_CBA,SV_EDITOR,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:n.simler.cba@gmail.com
+FN:Nicolas SIMLER
+N:SIMLER;Nicolas;;;
+NOTE:LDAP uid: nsimler\n\nLDAP description: Membre du CBA\n\nGroupes: CO_CB
+ A\, EL_CBA\, SV_EDITOR\, WAITING_ANNUAIRE
+ORG:CBA
+ROLE:
+TEL;TYPE=WORK:0679237825
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:nvixcharpentier
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:EL__ENTREPRISES,SP_NON_CIGAL,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:nvc@atelier-a4.fr
+FN:Noëlle  VIX-CHARPENTIER
+N:VIX-CHARPENTIER;Noëlle ;;;
+NOTE:LDAP uid: nvixcharpentier\n\nLDAP description: Atelier A4 architecture
+  et urbanisme durables\n\nGroupes: EL__ENTREPRISES\, SP_NON_CIGAL\, SV_USE
+ R\, WAITING_ANNUAIRE
+ORG:Atelier A4
+ROLE:Architecte-Urbaniste
+TEL;TYPE=WORK:03.87.76.02.32
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:pnolte
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CADASTRE,EL_CAD_CNIL1,EL_CAD_CNIL2,EL_CO_67249,WAITING_ANNUAI
+ RE
+EMAIL;TYPE=INTERNET:mairie.krautwiller@gmail.com
+FN:Paul NOLTE
+N:NOLTE;Paul;;;
+NOTE:LDAP uid: pnolte\n\nLDAP description: souhaite pouvoir accéder à l'o
+ util gratuit de consultation des données cadastrles\n\nGroupes: CO_CADAST
+ RE\, EL_CAD_CNIL1\, EL_CAD_CNIL2\, EL_CO_67249\, WAITING_ANNUAIRE
+ORG:mairie de krautwiller
+ROLE:Maire 
+TEL;TYPE=WORK:388680482
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:qgilbaud
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:EL__ENTREPRISES,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:urbanismedigitalepaysage@orange.fr
+FN:Quentin GILBAUD
+N:GILBAUD;Quentin;;;
+NOTE:LDAP uid: qgilbaud\n\nLDAP description: Chef de projet urbanisme dans 
+ agence de paysagiste concepteur\n\nGroupes: EL__ENTREPRISES\, SV_USER\, WA
+ ITING_ANNUAIRE
+ORG:Digitale paysage
+ROLE:Urbaniste
+TEL;TYPE=WORK:0610655968
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:rmathiotte
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:EL_CA_CHALONS-EN-CHAMPAGNE,SV_EDITOR,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:r.mathiotte@chalons-agglo.fr
+FN:Romain MATHIOTTE
+N:MATHIOTTE;Romain;;;
+NOTE:LDAP uid: rmathiotte\n\nLDAP description: Cartographie\, gestion et di
+ ffusion de données\n\nGroupes: EL_CA_CHALONS-EN-CHAMPAGNE\, SV_EDITOR\, W
+ AITING_ANNUAIRE
+ORG:Communauté d'Agglomération de Châlons-en-Champagne
+ROLE:Géomaticien
+TEL;TYPE=WORK:03.26.26.17.77
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:saudinot
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_CG68,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:audinot@haut-rhin.fr
+FN:Samuel AUDINOT
+N:AUDINOT;Samuel;;;
+NOTE:LDAP uid: saudinot\n\nLDAP description: Membre du CBA\n\nGroupes: CO_C
+ BA\, EL_CG68\, SV_USER\, WAITING_ANNUAIRE
+ORG:Département du Haut-Rhin
+ROLE:
+TEL;TYPE=WORK:0389306541
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:seppert
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:EL__ENTREPRISES,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:stefan.eppert@katrisk.com
+FN:Stefan EPPERT
+N:EPPERT;Stefan;;;
+NOTE:LDAP uid: seppert\n\nLDAP description: entreprise privat\n\nGroupes: E
+ L__ENTREPRISES\, SV_USER\, WAITING_ANNUAIRE
+ORG:KatRisk Deutschland
+ROLE:Directeur
+TEL;TYPE=WORK:004976151467600
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:tmeyer
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:meyer.teva@hotmail.fr
+FN:Teva Meyer
+N:Meyer;Teva;;;
+NOTE:LDAP uid: tmeyer\n\nLDAP description: Chercheur associé au CRESAT\n\n
+ Groupes: SV_USER\, WAITING_ANNUAIRE
+ORG:Université de Haute-Alsace
+ROLE:Chercheur Associé
+TEL;TYPE=WORK:0689187428
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:vsciusturlot
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_M2A,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:veronique.scius-turlot@mulhouse-alsace.fr
+FN:Véronique SCIUS-TURLOT
+N:SCIUS-TURLOT;Véronique;;;
+NOTE:LDAP uid: vsciusturlot\n\nLDAP description: Membre du CBA\n\nGroupes: 
+ CO_CBA\, EL_M2A\, SV_USER\, WAITING_ANNUAIRE
+ORG:Ville de Mulhouse\, service Jardins publics et Espaces verts
+ROLE:Ingénieur chargée de la Conservation et la Valorisation du Patrimoin
+ e
+TEL;TYPE=WORK:03 69 77 76 64
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+UID:yfriquet
+ADR;TYPE=BUSINESS:;;;;;;
+CATEGORIES:CO_CBA,EL_CG68,SV_USER,WAITING_ANNUAIRE
+EMAIL;TYPE=INTERNET:friquet@haut-rhin.fr
+FN:Yves FRIQUET
+N:FRIQUET;Yves;;;
+NOTE:LDAP uid: yfriquet\n\nLDAP description: gestion du patrimoine arboré 
+ - aménagement végétal et paysager- protection de la flore\n\nGroupes: C
+ O_CBA\, EL_CG68\, SV_USER\, WAITING_ANNUAIRE
+ORG:Conseil départemental du Haut-Rhin
+ROLE:Ingénieur
+TEL;TYPE=WORK:0389306546
+END:VCARD
